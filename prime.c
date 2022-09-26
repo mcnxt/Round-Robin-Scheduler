@@ -1,6 +1,5 @@
 /*
     Corey Shafer and Marcus Cureton
-    Assignment 2
     2022-08-18
     prime.c
     Largest prime number finder
