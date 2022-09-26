@@ -1,12 +1,8 @@
 # Round-Robin-Scheduler
 
-Corey Shafer
 Marcus Cureton
+Corey Shafer
 08/17/2022
-Dr. Kanchi
-CS-451 Operating Systems
-Assignment2
-
 
 
 How to compile and run this program:
