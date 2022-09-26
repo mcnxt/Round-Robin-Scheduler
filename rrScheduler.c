@@ -1,6 +1,5 @@
 /*
-Author: Corey Shafer and Marcus Cureton
-Assignment Number 2
+Authors: Marcus Cureton and Corey Shafer
 Date of Submission:08/16/2022
 Name of this File:rrScheduler.c
 Short Description of content:
